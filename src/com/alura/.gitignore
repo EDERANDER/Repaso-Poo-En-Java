@@ -1,6 +1,8 @@
 ### IntelliJ IDEA ###
 out/
 .idea/
+out/production/PracticarPooOficialRepaso/com/alura/.gitignore
+
 !**/src/main/**/out/
 !**/src/test/**/out/
 
