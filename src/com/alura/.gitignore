@@ -1,7 +1,6 @@
 ### IntelliJ IDEA ###
-../../../../.idea/vcs.xml
-../../../../out/
-../../../out/
+.idea/
+out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
